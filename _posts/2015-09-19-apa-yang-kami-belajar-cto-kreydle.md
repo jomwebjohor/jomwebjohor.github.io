@@ -5,7 +5,7 @@ category: aktitivi
 tags: [meetup]
 ---
 
-Dalam acara meetup bulanan JomWeb Johor untuk bulan September 2015 baru-baru ini, kami berkesempatan menjemput CTO Kreydle, Tuan Muhamad Hanafiah untuk membuat perkongsian pengalamannya membangunkan syarikat tersebut.
+Dalam acara meetup bulanan JomWeb Johor untuk bulan September 2015 baru-baru ini, kami berkesempatan menjemput CTO Kreydle, [Tuan Muhamad Hanafiah][1] untuk membuat perkongsian pengalamannya membangunkan syarikat tersebut.
 
 Antara perkongsian berguna kami dapat dalam sesi tersebut adalah:-
 
@@ -17,8 +17,10 @@ Antara perkongsian berguna kami dapat dalam sesi tersebut adalah:-
 6. Jika ada staff yang tidak perform, pecat cepat2 (setelah melalui prosedur sewajarnya). Jika tidak, ia akan menjadi beban kepada Startup. Ingat! fasa 3 tahun awal adalah fasa survival untuk Startup.
 7.Beberapa seni bina Pangakalan Data (Database Architecture) SAAS (Software as a service)
 
+Jika anda berminat menyertai meetup akan datang, sertai Group Facebook kami agar tidak ketinggalan sebarang aktiviti yang kami anjurkan - https://fb.me/groups/jomwebjohor.
+
 <img src="http://i.imgur.com/qpRZyc0.jpg"></img>
 <img src="http://i.imgur.com/Qxdcybz.jpg"></img>
 <img src="http://i.imgur.com/1ARncsP.jpg"></img>
 
-
+[1]:http://johor.jomweb.my/fellows/#Hanafiah Yahya
