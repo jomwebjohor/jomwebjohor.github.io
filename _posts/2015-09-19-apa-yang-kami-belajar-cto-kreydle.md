@@ -19,8 +19,8 @@ Antara perkongsian berguna kami dapat dalam sesi tersebut adalah:-
 
 Jika anda berminat menyertai meetup akan datang, sertai Group Facebook kami agar tidak ketinggalan sebarang aktiviti yang kami anjurkan - https://fb.me/groups/jomwebjohor.
 
+[1]:http://johor.jomweb.my/fellows/
+
 <img src="http://i.imgur.com/qpRZyc0.jpg"></img>
 <img src="http://i.imgur.com/Qxdcybz.jpg"></img>
 <img src="http://i.imgur.com/1ARncsP.jpg"></img>
-
-[1]:http://johor.jomweb.my/fellows/#Hanafiah Yahya
