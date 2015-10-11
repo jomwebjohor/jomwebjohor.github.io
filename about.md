@@ -12,4 +12,4 @@ Sertai Kami:-
 * Grup FB Utama: [fb.com/groups/JOMWEB](http://fb.com/groups/JOMWEB)
 * Chapter Johor:
 	* [jomwebjohor.github.io](http://jomwebjohor.github.io)
-	* [fb.com/groups/jomwebjohor](http://.fb.com/groups/jomwebjohor)
+	* [fb.com/groups/jomwebjohor](http://fb.com/groups/jomwebjohor)
