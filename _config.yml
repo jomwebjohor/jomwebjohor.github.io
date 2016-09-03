@@ -79,9 +79,9 @@ exclude:
 authors:
   kamalmustafa:
     name:           Kamal Mustafa
-    short_bio:      Lead Developer, MARIMORE Inc.
-    full_bio_ms:    '<a name="Kamal Mustafa" href="http://my.linkedin.com/in/mk4ml" style="font-weight:bold;">Kamal Mustafa</a> adalah Lead Developer di MARIMORE Inc. Berpengalaman dalam pembangunan aplikasi web menggunakan PHP, Python dan Django. Aktif menulis di blog peribadi <a href="http://k4ml.github.io/">ImportError</a> dan Twitter <a href="http://twitter.com/k4ml">@k4ml</a>.'
-    full_bio_en:    '<a href="http://my.linkedin.com/in/mk4ml">Kamal Mustafa</a> is a Lead Developer at MARIMORE Inc. Experienced in developing web applications using PHP, Python and Django. Actively sharing his thought at personal blog <a href="http://k4ml.github.io/">ImportError</a> and Twitter <a href="http://twitter.com/k4ml">@k4ml</a>.'
+    short_bio:      Lead Developer, Xoxzo Inc.
+    full_bio_ms:    '<a name="Kamal Mustafa" href="http://my.linkedin.com/in/mk4ml" style="font-weight:bold;">Kamal Mustafa</a> adalah Lead Developer di Xoxzo Inc. Berpengalaman dalam pembangunan aplikasi web menggunakan PHP, Python dan Django. Aktif menulis di blog peribadi <a href="http://k4ml.github.io/">ImportError</a> dan Twitter <a href="http://twitter.com/k4ml">@k4ml</a>.'
+    full_bio_en:    '<a href="http://my.linkedin.com/in/mk4ml">Kamal Mustafa</a> is a Lead Developer at Xoxzo Inc. Experienced in developing web applications using PHP, Python and Django. Actively sharing his thought at personal blog <a href="http://k4ml.github.io/">ImportError</a> and Twitter <a href="http://twitter.com/k4ml">@k4ml</a>.'
     gravatar:       dab3052b18c86b0884341d9c2c67a4f3
     pic:            http://i.imgur.com/3YewiKq.jpg
 
